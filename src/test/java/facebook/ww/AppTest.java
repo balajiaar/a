@@ -35,5 +35,6 @@ public class AppTest
     {
         assertTrue( true );
         System.out.println("bgdgdg");
+        System.err.println();
     }
 }
